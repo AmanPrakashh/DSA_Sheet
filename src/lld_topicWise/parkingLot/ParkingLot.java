@@ -183,4 +183,18 @@ class Ticket {
     public ParkingSpot getParkingSpot() {
         return parkingSpot;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    void bfsRecursiv
 }
